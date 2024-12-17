@@ -12,12 +12,14 @@ function App() {
       <div className={"row gap-5 "}>
         <div className={"col-sm z_b"}>
           <h5>Zinc</h5>
+          <h2>$20</h2>
           <p>1 month</p>
           <a href={"https://pay-link.s3.us-west-2.amazonaws.com/index.html?uid=f165caf55beb4279"} target={"_blank"}><button>Pay</button></a>
 
         </div>
         <div className={"col-sm s_b"}>
           <h5>Silver</h5>
+          <h2>$40</h2>
           <p>2 months</p>
           <a href={"https://pay-link.s3.us-west-2.amazonaws.com/index.html?uid=43b43258ed114511"} target={"_blank"}>
             <button>Pay</button>
@@ -26,6 +28,7 @@ function App() {
         </div>
         <div className={"col-sm"}>
           <h5>Gold</h5>
+          <h2>$60</h2>
           <p>6 months</p>
           <a href={"https://pay-link.s3.us-west-2.amazonaws.com/index.html?uid=fcafa8ff50e84b39"} target={"_blank"}>
             <button>Pay</button>
@@ -34,6 +37,7 @@ function App() {
         </div>
         <div className={"col-sm"}>
           <h5>Platinum</h5>
+          <h2>$100</h2>
           <p>12 months</p>
           <a href={"https://pay-link.s3.us-west-2.amazonaws.com/index.html?uid=c1ea6920ebce4581"} target={"_blank"}>
             <button>Pay</button>
