@@ -1,0 +1,17 @@
+
+
+body {
+  background: black;
+  margin: 0;
+  color:white;
+}
+
+button{
+  color: white;
+  background-color: green;
+  width: 150px;
+  padding: 5px;
+  border-radius: 10px;
+  border:none;
+}
+
